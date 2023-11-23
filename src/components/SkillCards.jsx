@@ -1,4 +1,4 @@
-const SkillsCard = ({ icon, title, text }) => {
+const SkillsCard = ({icon, title, text }) => {
     return (
       <article>
         <span>{icon}</span>
